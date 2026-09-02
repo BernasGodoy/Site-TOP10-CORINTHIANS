@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(rgb(24, 24, 23), rgb(0, 0, 0));
+    background-image: url('./img/fundorsrs.png');
+    color: rgb(245, 242, 242);
+    margin-top: 7%;
+}
+
+body.pagina-sobre {
+    margin-top: 1% !important;
+}
+
+body.pagina-sobre #gif,
+body.pagina-sobre #dava {
+    margin-top: 0 !important;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+
+#img1 {
+    width: 85%;
+}
+
+#persona {
+    width: 80%;
+}
+
+#textim {
+    width: 80%;
+}
+
+#gif {
+    width: 80%;
+}
+
+img {
+    width: 50%;
+}
+
+#dava {
+    width: 20%;
+    height: auto;
+    margin-top: 5px;
+}
+
+#luva {
+    width: 50%;
+    height: 30%;
+}
+
+p {
+    width: 60%;
+    margin: 0 auto 30px auto;
+    line-height: 1.5;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #ffffff;
+    width: 50%;
+    margin: 60px auto;
+}
